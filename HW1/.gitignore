@@ -1,0 +1,5 @@
+data/artist20/*
+data/artist20_testing_data/*
+data/separated/*
+src/__pycache__/*
+src/output/*
