@@ -4,6 +4,7 @@ This repository contains course homeworks of DLMAG (Deep Learning for Music Anal
 
 All the code are written or modified by myself. (Jack Chen)
 
+I only audit this course, so I might not be able to complete all the homework. (I don't have that much time lol)
 
 # TODO
 - Add hws explanation
