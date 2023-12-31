@@ -7,13 +7,13 @@ All the code are written or modified by myself. (Jack Chen)
 I only audit this course, so I might not be able to complete all the homework. (I don't have that much time lol)
 
 ### HW1 - Singer Classification
-Please see folder for more information.
+Please see corresponding folder for more information.
 
 ### HW2 - GAN-based Mel-Vocoder
-Please see folder for more information.
+Please see corresponding folder for more information.
 
 ### HW3 - Transformer-based Symbolic Music Generation
-Please see folder for more information.
+Please see corresponding folder for more information.
 
 ### Final Project - Singing Voice Beautifier
-Please see folder for more information.
+Please see corresponding folder for more information.
