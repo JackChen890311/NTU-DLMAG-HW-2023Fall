@@ -8,6 +8,3 @@ I did not complete this homework due to time limitation. However, here are some 
 (But they are not easy to reproduce, at least not easy for me lol)
 
 However, if you're interested in the Grffin-Lim Algorithm, you can check griffin-lim.ipynb to see how I did it.
-
-## TODO
-- update this readme
